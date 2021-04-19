@@ -1,5 +1,38 @@
 .App {
   text-align: center;
+  
+}
+.photo{
+  width: 250px;
+  height: 250px;
+  margin-left: 40%;
+  margin-top: 5%;
+  border-radius: 50%;
+}
+h1{
+  color: crimson;
+  text-align: center;
+}
+h3{
+  color: cadetblue;
+  text-align: center;
+}
+
+.buttonCLK{
+  margin-left: 45%;
+  margin-top: 5%;
+}
+.counter{
+  color: red;
+  margin-left: 45%;
+}
+
+
+.bioPage{
+  color:blue;
+  width: 350px;
+  text-align: center;
+  margin-left: 37%;
 }
 
 .App-logo {
